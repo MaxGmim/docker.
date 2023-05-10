@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.main.urls.books_view" />
+          <option value="phones.models" />
+          <option value="main.more_itertools" />
+          <option value="db.Session" />
+          <option value="db.PersonModel" />
+          <option value="db.engine" />
+          <option value="db.Base" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
